@@ -1,5 +1,8 @@
-This is a conversion of work done by [gabetax](https://github.com/gabetax/twitter-bootstrap-kaminari-views) - I simply converted everything to haml.
+# HAML Version
+
+Original work done by [gabetax](https://github.com/gabetax/twitter-bootstrap-kaminari-views) - I simply converted everything to haml.
 I'm using it in a project with kaminari 0.13.0 and bootstrap 2 without any problem.
+
 
 # Kaminari views for Twitter Bootstrap
 
